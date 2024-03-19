@@ -1,2 +1,2 @@
 # ArtificialIntelligencePrograms
-Basic AI Programs such as searching algorithms and game playing
+AI Programs in Search Algorithms and Game Playing
